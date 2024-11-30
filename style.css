@@ -1,0 +1,62 @@
+#overview{
+    width: 600px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+#buttonOverview{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+#diagram {
+    margin-left: 180px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    /* align-items: center; */
+    background-color: #fff;
+    cursor: pointer;
+}
+#color{
+    width: 200px;
+    height: 30px;
+    margin-left: 500px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#redButton{
+    width: 100px;
+    height: 40px;
+    color: #ffff;
+    background-color: red;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#greenButton{
+    width: 100px;
+    height: 40px;
+    color: #ffff;
+    background-color: green;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#blueButton{
+    width: 100px;
+    height: 40px;
+    color: #ffff;
+    background-color: blue;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#resetButton{
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+}
